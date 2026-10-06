@@ -1,0 +1,13 @@
+Create a new Maven project
+Add maven dependencies like - Cucumber java | testNG | Selenium java
+Create a feature folder under src/tes/resources
+under feature folder create a new feature file onboarding.feature 
+Download cucumber plugin from eclipse marketplace
+create a feature file and add contexts
+Try to run the feature file
+Add Step Definitions /Glue code under src/test/java package.
+
+				Error: Could not find or load main class cucumber.api.cli.Main
+				Caused by: java.lang.ClassNotFoundException: cucumber.api.cli.Main
+				
+This occurs due to have not added cucumber dependencies
