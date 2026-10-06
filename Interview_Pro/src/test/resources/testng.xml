@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SBMd2cCCSuite">
+	<test name="SBMd2cCCTest">
+		<classes>
+			<class name="com.novio.test.Landon_d2c_page"></class>
+			<class name="com.novio.test.Landon_d2c_page2"></class>
+		</classes>
+	</test>
+	<test name="SBMd2cCCTest1">
+		<classes>
+			<class name="com.novio.test.Landon_d2c_page"></class>
+			<class name="com.novio.test.Landon_d2c_page2"></class>
+		</classes>																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						
+	</test>
+</suite> 

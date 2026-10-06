@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SBMd2cCCSuite]">
+  <test thread-count="5" name="SBMd2cCCTest(failed)">
+    <classes>
+      <class name="com.novio.test.Landon_d2c_page2">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="land_d2c_noviopage"/>
+        </methods>
+      </class> <!-- com.novio.test.Landon_d2c_page2 -->
+    </classes>
+  </test> <!-- SBMd2cCCTest(failed) -->
+  <test thread-count="5" name="SBMd2cCCTest1(failed)">
+    <classes>
+      <class name="com.novio.test.Landon_d2c_page2">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="land_d2c_noviopage"/>
+        </methods>
+      </class> <!-- com.novio.test.Landon_d2c_page2 -->
+    </classes>
+  </test> <!-- SBMd2cCCTest1(failed) -->
+</suite> <!-- Failed suite [SBMd2cCCSuite] -->
